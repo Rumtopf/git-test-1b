@@ -1,0 +1,33 @@
+/* body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#myButton{
+
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 3rem;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+#myButton2{
+    font-size: 3rem;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+.myLabels{
+    font-size: 3em;
+}
+
+.myLabels2{
+    display: block;
+    padding-top: 6rem;
+    margin-top: 6rem;
+text-align: center;
+    font-size: 3em;
+} */
+
+
+#mySubmit{
+    font-size: 1em;
+}
